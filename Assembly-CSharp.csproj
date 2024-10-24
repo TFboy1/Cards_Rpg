@@ -63,6 +63,7 @@
     <Compile Include="Assets\Assets\Scripts\card_move.cs" />
     <Compile Include="Assets\Assets\Scripts\Carddisplay.cs" />
     <Compile Include="Assets\Assets\Scripts\Card.cs" />
+    <Compile Include="Assets\Assets\Scripts\CameraFollow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
